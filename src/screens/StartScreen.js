@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
   },
   description: {
     fontSize: 24,
-    color: "red",
+    color: "white",
     textAlign: "center",
     marginTop: 10,
     marginBottom: 20,

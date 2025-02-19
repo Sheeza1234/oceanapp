@@ -6,7 +6,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-    res.send("Welcome to Paddle Cleanup API!");
+    res.send("Welcome to Blue Wave Cleanup API!");
 });
 
 app.listen(5000, () => {

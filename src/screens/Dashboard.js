@@ -79,7 +79,7 @@ const Dashboard = ({ navigation }) => {
     <ImageBackground source={require('../assets/screen.jpeg')}>
       <ScrollView>
         <View style={styles.container}>
-          <Text style={styles.title}>Paddle Cleanup Trips</Text>
+          <Text style={styles.title}>BlueWave Cleanup Trips</Text>
           <TextInput
             style={styles.input}
             placeholder="Search by name, location, or organizer"
